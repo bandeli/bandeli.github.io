@@ -1,0 +1,8 @@
+- name: Pradžia
+  link: /
+- name: Apie
+  link: /about.html
+- name: Tinklaraštis
+  link: /blog.html
+- name: Redakcija
+  link: /staff.html
